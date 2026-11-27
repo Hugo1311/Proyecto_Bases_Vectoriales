@@ -1,0 +1,15 @@
+# Procesamiento de documentos (extracción de texto y OCR)
+pymupdf>=1.26
+pytesseract>=0.3.13
+pillow>=11.0
+
+# Embeddings y cálculo numérico
+sentence-transformers>=5.0
+numpy>=2.0
+scikit-learn>=1.6
+
+# Clientes de las bases de datos vectoriales
+psycopg2-binary>=2.9
+pgvector>=0.4
+chromadb>=1.0
+qdrant-client>=1.14
